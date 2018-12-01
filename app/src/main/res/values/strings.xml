@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Final Project</string>
+    <string name="versus">vs</string>
+    <string name="schedule_match">Matches</string>
+    <string name="teams">Teams</string>
+    <string name="favorites">Favorites</string>
+    <string name="event">Event</string>
+    <string name="player">player</string>
+    <string name="goal">Goal</string>
+    <string name="shot">Shots</string>
+    <string name="yellow_card">Yellow Card</string>
+    <string name="red_card">Red Card</string>
+    <string name="lineup">Lineup</string>
+    <string name="gk">Goal Kepeer</string>
+    <string name="df">Defenders</string>
+    <string name="md">Midfenders</string>
+    <string name="fw">Forwards</string>
+    <string name="subs">Subs</string>
+
+    <array name="league">
+        <item>English Premier League</item>
+        <item>English League Championship</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>French Ligue 1</item>
+        <item>Spanish La Liga</item>
+    </array>
+
+</resources>
